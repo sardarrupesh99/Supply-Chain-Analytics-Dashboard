@@ -91,29 +91,11 @@ Provides an overview of total revenue, total profit, profit margin, and overall 
 
 ## 📊 Dashboard Preview
 
-![Samsung Supply Chain Dashboard](Dashboard.png)
+https://github.com/sardarrupesh99/Supply-Chain-Analytics-Dashboard/blob/main/Snapshot%20Of%20The%20Dashboard.png
 
 ---
 
-## 📁 Project Files
 
-```text
-Samsung-Supply-Chain-Analytics-Dashboard/
-│
-├── Samsung_Supply_Chain_Dashboard.pbix
-├── Dataset.xlsx
-├── Dashboard.png
-└── README.md
-```
-
-### File Description
-
-* **.pbix** – Power BI dashboard file
-* **Dataset.xlsx** – Dataset used for analysis
-* **Dashboard.png** – Dashboard preview image
-* **README.md** – Project documentation
-
----
 
 ## 🚀 Skills Demonstrated
 
